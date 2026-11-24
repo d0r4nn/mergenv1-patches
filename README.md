@@ -73,9 +73,12 @@ Add manually in **Morphe Manager** / **Morphe Desktop**: `https://github.com/d0r
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
+> **[v1.0.0](https://github.com/d0r4nn/mergenv1-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;&middot;&nbsp;&nbsp;`main`&nbsp;&nbsp;&middot;&nbsp;&nbsp;**2 patches** across **2 apps**&nbsp;&nbsp;&middot;&nbsp;&nbsp;[Full details](PATCHES.md)
 
-#### A list of your patches will automatically be shown here after your first patches release is created.
-
+| # | App | Patches | Version | Package |
+|---|---|---|---|---|
+| 1 | <img src="https://publicmetadata.co.uk/com.zhiliaoapp.musically" width="24" height="24" alt=""> [**TikTok**](PATCHES.md#tiktok-comzhiliaoappmusically) | 1 | `47.4.3` | [`com.zhiliaoapp.musically`](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically) |
+| 2 | <img src=".github/assets/blank-app-icon.svg" width="24" height="24" alt=""> [**TikTok (Asia)**](PATCHES.md#tiktok-asia-comssandroidugctrill) | 1 | — | [`com.ss.android.ugc.trill`](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill) |
 <!-- PATCHES_END -->
 
 ---

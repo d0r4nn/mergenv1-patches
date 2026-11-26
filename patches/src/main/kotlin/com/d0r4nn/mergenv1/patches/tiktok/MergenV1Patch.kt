@@ -9,8 +9,8 @@ private const val BOOTSTRAP_CLASS = "Lcom/sarp/tiktokliquidglass/LiquidGlassBoot
 
 @Suppress("unused")
 val mergenV1Patch = patch(
-    name = "MergenV1 Liquid Glass UI",
-    description = "Brings Kyant0 Liquid Glass & Swiss-Kinetic Obsidian UI, 120Hz spring animations, radial hold menu, creator peek drawer, quick control sheet, camera-notch alerts, kinetic seekbar, and 1:1 scrubbed Danmaku comments to stock TikTok and TikTok You (Android 13+).",
+    name = "MergenV1 UI Enhancer",
+    description = "Modern UI & interaction enhancer for stock TikTok and TikTok You (Android 13+): 120Hz spring animations with selectable profiles, swipe gestures, radial action menu, creator peek drawer, quick control sheet, camera-notch alerts, kinetic seekbar, 1:1 scrubbed Danmaku comments, and switchable Obsidian & Liquid Glass themes.",
     default = true
 ) {
     compatibleWith(

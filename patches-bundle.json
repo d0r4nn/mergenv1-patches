@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-11-26T19:45:02",
-  "description": "## [1.0.1](https://github.com/d0r4nn/mergenv1-patches/compare/v1.0.0...v1.0.1) (2026-11-26)\n\n### 🐛 Bug Fixes\n\n* reposition MergenV1 metadata and docs as a UI enhancer ([e554156](https://github.com/d0r4nn/mergenv1-patches/commit/e554156f329f1739f329926b2d2c87f8eda83a86))",
-  "download_url": "https://github.com/d0r4nn/mergenv1-patches/releases/download/v1.0.1/patches-1.0.1.mpp",
+  "created_at": "2026-11-26T20:03:56",
+  "description": "## [1.0.2](https://github.com/d0r4nn/mergenv1-patches/compare/v1.0.1...v1.0.2) (2026-11-26)\n\n### 🐛 Bug Fixes\n\n* hook main process super.onCreate so MergenV1 initializes in UI process ([49c04c5](https://github.com/d0r4nn/mergenv1-patches/commit/49c04c592b8afbdf926ac431918a2ede704afd6a))",
+  "download_url": "https://github.com/d0r4nn/mergenv1-patches/releases/download/v1.0.2/patches-1.0.2.mpp",
   "signature_download_url": "",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }

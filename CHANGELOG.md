@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/d0r4nn/mergenv1-patches/compare/v1.0.1...v1.0.2) (2026-11-26)
+
+### 🐛 Bug Fixes
+
+* hook main process super.onCreate so MergenV1 initializes in UI process ([49c04c5](https://github.com/d0r4nn/mergenv1-patches/commit/49c04c592b8afbdf926ac431918a2ede704afd6a))
+
 ## [1.0.1](https://github.com/d0r4nn/mergenv1-patches/compare/v1.0.0...v1.0.1) (2026-11-26)
 
 ### 🐛 Bug Fixes
